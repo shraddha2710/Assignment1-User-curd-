@@ -2,7 +2,7 @@
 
 ##  What is it?
 Spring boot project with User curd opertaion and spring security with jwt token based authentication.
-Also have the validation for email and phone to validat it
+Also have the validation for email and phone to validate it
 
 ## Requirements:
 IDE : STS  <br />
