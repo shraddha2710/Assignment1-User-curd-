@@ -5,15 +5,15 @@ Spring boot project with User curd opertaion and spring security with jwt token 
 Also have the validation for email and phone to validat it
 
 ## Requirements:
-IDE : STS
-Tool : Postman
-Database : Mysql
+IDE : STS  <br />
+Tool : Postman  <br />
+Database : Mysql <br />
 
 ## API Endpoints:
-1)Register user - POST
+1)Register user - POST <br />
     URL :- <URL>/register
     
-2)Authenticate user - POST
+2)Authenticate user - POST <br />
     URL :- <URL>/authenticate
       
 3)It will generate the token
