@@ -11,10 +11,10 @@ Database : Mysql <br />
 
 ## API Endpoints:
 1)Register user - POST <br />
-    URL :- <URL>/register
+    URL :- [URL]/register
     
 2)Authenticate user - POST <br />
-    URL :- <URL>/authenticate
+    URL :- [URL]/authenticate
       
 3)It will generate the token
 
